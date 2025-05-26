@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=LAKA-MD-V3.0.0" alt="Typing SVG" /></a>
   </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.ibb.co/69Np4F3/image-1744505172998.jpg'/></a>
+<a><img src='https://files.catbox.moe/onjpot.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/mrlaka"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20mrlaka-FF7604.svg?style=big-square&logo=github" /></a>
@@ -40,7 +40,7 @@ You will need a session ID to run the LAKA=MD. Click the button below to obtain 
 
 > **Get Pair Code (Session ID)**
 
-<a href='https://lakaweb-06576da58363.herokuapp.com' target="_blank">
+<a href='https://laka-web-c1cfbdab0e5c.herokuapp.com/pair' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 

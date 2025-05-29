@@ -2,14 +2,14 @@
   "name": "LAKA-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
-  "main": "lakaofc.js",
+  "main": "index.js",
   "scripts": {
     "start": "pm2 start lakaofc.js --deep-monitoring --attach --name LAKA-MD",
     "stop": "pm2 stop LAKA-MD",
     "restart": "pm2 restart LAKA-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:lakaofc-baliyes",
+    "@whiskeysockets/baileys": "npm:baileys-mod",
     "@adiwajshing/keyed-db": "latest",
     "pino": "latest",
     "pm2": "latest",
@@ -34,6 +34,7 @@
     "ytdl-core": "latest",
     "wa-sticker-formatter": "latest",
     "cheerio": "latest",
+    "node-cache":  "latest",
     "g-i-s": "latest",
     "@ffmpeg-installer/ffmpeg": "latest",
     "wikipedia": "latest",
@@ -42,8 +43,8 @@
     "@dark-yasiya/imgbb.js": "latest",
     "adm-zip": "^0.5.16",
     "@dark-yasiya/news-scrap" : "latest",
-    "sharp":"^0.32.6",
-    "jimp": "^0.22.12",
+    "sharp":"0.34.1",
+    "jimp": "0.16.1",
     "util": "^0.12.4",
     "child_process":"1.0.2",
     "mime-types":"2.1.35"

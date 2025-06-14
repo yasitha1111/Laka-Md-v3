@@ -32,7 +32,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/mrlaka/Laka-Md-v3-v3/fork"><img title="LAKA-MD" src="https://img.shields.io/badge/FORK-LAKA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/mrlaka/Laka-Md-v3/fork"><img title="LAKA-MD" src="https://img.shields.io/badge/FORK-LAKA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -40,7 +40,7 @@ You will need a session ID to run the LAKA=MD. Click the button below to obtain 
 
 > **Get Pair Code (Session ID)**
 
-<a href='https://lakamd-web-e5d99ab166f3.herokuapp.com/pair' target="_blank">
+<a href='https://lakaweb-6d1063b2401b.herokuapp.com/pair' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 

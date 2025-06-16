@@ -45,7 +45,6 @@
     "@dark-yasiya/news-scrap" : "latest",
     "sharp":"0.34.1",
     "jimp": "0.16.1",
-    "util": "^0.12.4",
     "mime-types":"2.1.35"
   }
 }

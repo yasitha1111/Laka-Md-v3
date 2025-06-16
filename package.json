@@ -39,9 +39,7 @@
     "@ffmpeg-installer/ffmpeg": "latest",
     "wikipedia": "latest",
     "form-data": "latest",
-    "@dark-yasiya/imgbb.js": "latest",
     "adm-zip": "^0.5.16",
-    "@dark-yasiya/news-scrap" : "latest",
     "sharp":"0.34.1",
     "jimp": "0.16.1",
     "mime-types":"2.1.35"

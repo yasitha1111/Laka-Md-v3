@@ -39,7 +39,6 @@
     "@ffmpeg-installer/ffmpeg": "latest",
     "wikipedia": "latest",
     "form-data": "latest",
-    "@sl-code-lords/esana-news" : "latest",
     "@dark-yasiya/imgbb.js": "latest",
     "adm-zip": "^0.5.16",
     "@dark-yasiya/news-scrap" : "latest",

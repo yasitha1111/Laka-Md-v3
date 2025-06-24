@@ -27,6 +27,7 @@
     "buffer": "latest",
     "sqlite3": "latest",
     "stream": "latest",
+    "seedr": "latest",
     "file_size_url": "^1.0.4",
     "ruhend-scraper": "^7.0.6",
     "google-tts-api": "latest",
